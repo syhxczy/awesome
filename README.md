@@ -1,9 +1,13 @@
 # 记录一些有用的网站
 
+> ps.请自备梯子
+
 ## 前端
 
 ### WEB入门
 * [Web基本概念介绍](http://www.zhihu.com/question/22689579)
+
+* [如何理解 Web 语义化？](https://www.zhihu.com/question/20455165)
 
 ### HTML
 * [HTML入门](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/Introduction)
@@ -60,8 +64,6 @@
 
 ### JavaScript
 * [菜鸟教程 - JavaScript](http://www.runoob.com/js/js-tutorial.html)
-
-* [JavaScript 的性能优化：加载和执行](http://www.ibm.com/developerworks/cn/web/1308_caiys_jsload/index.html)
 
 * [JavaScript 数据类型和数据结构](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Data_structures)
 
@@ -121,9 +123,42 @@
 
 * [常用的Javascript设计模式](http://blog.jobbole.com/29454/)
 
-* [LS的中文版：学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns)
+* [学用 JavaScript 设计模式](http://wiki.jikexueyuan.com/project/javascript-design-patterns/)
 
 * [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
+
+* [你不懂JS：入门与进阶](http://www.jianshu.com/nb/5867095)
+
+* [你不懂JS：作用域与闭包](http://www.jianshu.com/nb/5566863)
+
+* [你不懂JS：this与对象原型](http://www.jianshu.com/nb/3477989)
+
+* [你不懂JS：类型与文法](http://www.jianshu.com/nb/5354522)
+
+* [你不懂JS：异步与性能](http://www.jianshu.com/nb/4015903)
+
+* [你不懂JS：ES6与未来](http://www.jianshu.com/nb/7251531)
+
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+### 前端基础
+* [前端解决跨域问题的8种方案](http://www.cnblogs.com/JChen666/p/3399951.html)
+
+* [浏览器 HTTP 协议缓存机制详解](https://my.oschina.net/leejun2005/blog/369148)
+
+### HTML5 新API
+* [MDN Window.localStorage](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/localStorage)
+
+* [MDN Window.sessionStorage](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/sessionStorage)
+
+### 网站性能优化
+* [JavaScript 的性能优化：加载和执行](http://www.ibm.com/developerworks/cn/web/1308_caiys_jsload/index.html)
+
+* [毫秒必争，前端网页性能最佳实践](www.cnblogs.com/developersupport/p/webpage-performance-best-practices.html)
+
+* [大型网站的灵魂——性能](http://www.cnblogs.com/leefreeman/p/3998757.html)
+
+* [编写高效的 CSS 选择器](http://web.jobbole.com/35339/)
 
 ### 框架/库
 * [jQuery API 中文文档](http://jquery.cuishifeng.cn/)
@@ -181,13 +216,18 @@
 
 * [從零開始學 ReactJS](https://github.com/carlleton/reactjs101)
 
+### Fetch
+* [传统 Ajax 已死，Fetch 永生](https://segmentfault.com/a/1190000003810652);
+
+* [这个API很“迷人”——(新的Fetch API)](https://www.w3ctech.com/topic/854)
+
 ### 浏览器
 * [浏览器缓存机制详解](http://mangguo.org/browser-cache-mechanism-detailed/)
 
+* [cookie入门](https://segmentfault.com/a/1190000007530869)
+
 ### 代码规范
 * [代码规范](https://github.com/ecomfe/spec)
-
-* [Web语义化](https://www.zhihu.com/question/20455165)
 
 ### 在线工具
 * [Can I use](http://caniuse.com/)
