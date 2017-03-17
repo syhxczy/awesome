@@ -45,6 +45,10 @@
 
 * [clip-path](https://developer.mozilla.org/zh-CN/docs/Web/CSS/clip-path)
 
+* [Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification](https://www.w3.org/TR/CSS2/)
+
+* [Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification 中文版](http://www.ayqy.net/doc/css2-1/cover.html)
+
 ### 移动web页面
 * [手机网页开发](https://developer.mozilla.org/zh-CN/docs/Web/Guide/Mobile)
 
@@ -62,6 +66,8 @@
 
 * [移动开发资源集合](https://github.com/jtyjty99999/mobileTech)
 
+* [手机端页面自适应解决方案—rem布局进阶版](http://www.jianshu.com/p/985d26b40199)
+
 ### JavaScript
 * [菜鸟教程 - JavaScript](http://www.runoob.com/js/js-tutorial.html)
 
@@ -73,9 +79,13 @@
 
 * [MDN querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
 
+* [js之事件冒泡和事件捕获详细介绍](http://www.jb51.net/article/42492.htm)
+
 * [JavaScript事件代理](http://www.cnblogs.com/rubylouvre/archive/2009/08/09/1542174.html)
 
 * [菜鸟教程 - Ajax](http://www.runoob.com/ajax/ajax-tutorial.html)
+
+* [ajax && jsonp](http://www.jianshu.com/p/a2155ae38612)
 
 * [Comet](http://www.ibm.com/developerworks/cn/web/wa-lo-comet/)
 
@@ -146,6 +156,12 @@
 
 * [浏览器 HTTP 协议缓存机制详解](https://my.oschina.net/leejun2005/blog/369148)
 
+* [浏览器缓存机制详解](http://mangguo.org/browser-cache-mechanism-detailed/)
+
+* [cookie入门](https://segmentfault.com/a/1190000007530869)
+
+* [从输入 URL 到页面加载完成的过程中都发生了什么](https://segmentfault.com/a/1190000003925803?utm_source=tuicool&utm_medium=referral)
+
 ### HTML5 新API
 * [MDN Window.localStorage](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/localStorage)
 
@@ -159,6 +175,15 @@
 * [大型网站的灵魂——性能](http://www.cnblogs.com/leefreeman/p/3998757.html)
 
 * [编写高效的 CSS 选择器](http://web.jobbole.com/35339/)
+
+### 前端模块化
+* [前端模块化（CommonJs,AMD和CMD）](http://www.jianshu.com/p/d67bc79976e6)
+
+* [浅析JS中的模块规范（CommonJS，AMD，CMD）](http://www.2cto.com/kf/201411/348276.html)
+
+* [前端模块化](http://suibobuzhuliu.github.io/2016/05/26/%E5%89%8D%E7%AB%AF%E6%A8%A1%E5%9D%97%E5%8C%96/)
+
+* [写了十年JS却不知道模块化为何物？](https://blog.wilddog.com/?p=587)
 
 ### 框架/库
 * [jQuery API 中文文档](http://jquery.cuishifeng.cn/)
@@ -179,6 +204,8 @@
 * [菜鸟教程 - SVG](http://www.runoob.com/svg/svg-tutorial.html)
 
 * [SVG动画库 - vivus.js](http://maxwellito.github.io/vivus/)
+
+* [帅气的SVG路径描边动画 (path animation) 实战应用](https://segmentfault.com/a/1190000007811310)
 
 ### Canvas
 * [菜鸟教程 - Canvas](http://www.runoob.com/tags/ref-canvas.html)
@@ -220,11 +247,6 @@
 * [传统 Ajax 已死，Fetch 永生](https://segmentfault.com/a/1190000003810652);
 
 * [这个API很“迷人”——(新的Fetch API)](https://www.w3ctech.com/topic/854)
-
-### 浏览器
-* [浏览器缓存机制详解](http://mangguo.org/browser-cache-mechanism-detailed/)
-
-* [cookie入门](https://segmentfault.com/a/1190000007530869)
 
 ### 代码规范
 * [代码规范](https://github.com/ecomfe/spec)
