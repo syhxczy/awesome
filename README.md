@@ -1,20 +1,19 @@
 # 记录一些有用的网站
 
-> ps.请自备梯子
-
 ## 前端
 
 ### WEB入门
+
 * [Web基本概念介绍](http://www.zhihu.com/question/22689579)
 
 * [如何理解 Web 语义化？](https://www.zhihu.com/question/20455165)
 
-### HTML
+### HTML & CSS
+
 * [HTML入门](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/Introduction)
 
 * [菜鸟教程 - HTML](http://www.runoob.com/html/html-tutorial.html)
 
-### CSS
 * [菜鸟教程 - CSS](http://www.runoob.com/css/css-tutorial.html)
 
 * [MDN - CSS](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Getting_started)
@@ -49,7 +48,10 @@
 
 * [Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification 中文版](http://www.ayqy.net/doc/css2-1/cover.html)
 
+* [w3cplus](http://www.w3cplus.com/)
+
 ### 移动web页面
+
 * [手机网页开发](https://developer.mozilla.org/zh-CN/docs/Web/Guide/Mobile)
 
 * [在移动浏览器中使用viewport元标签控制布局](https://developer.mozilla.org/zh-CN/docs/Mobile/Viewport_meta_tag)
@@ -69,15 +71,14 @@
 * [手机端页面自适应解决方案—rem布局进阶版](http://www.jianshu.com/p/985d26b40199)
 
 ### JavaScript
+
 * [菜鸟教程 - JavaScript](http://www.runoob.com/js/js-tutorial.html)
 
-* [JavaScript 数据类型和数据结构](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Data_structures)
+* [JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 
-* [JavaScript 标准库](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects)
+* [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
 
-* [MDN querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
-
-* [MDN querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
+* [querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll)
 
 * [js之事件冒泡和事件捕获详细介绍](http://www.jb51.net/article/42492.htm)
 
@@ -135,23 +136,16 @@
 
 * [学用 JavaScript 设计模式](http://wiki.jikexueyuan.com/project/javascript-design-patterns/)
 
+* [理解 javascript 观察者模式 (订阅者与发布者)](https://juejin.im/entry/580b5553570c350068e6c2d6)
+
 * [You-Dont-Need-jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery/blob/master/README.zh-CN.md)
 
-* [你不懂JS：入门与进阶](http://www.jianshu.com/nb/5867095)
-
-* [你不懂JS：作用域与闭包](http://www.jianshu.com/nb/5566863)
-
-* [你不懂JS：this与对象原型](http://www.jianshu.com/nb/3477989)
-
-* [你不懂JS：类型与文法](http://www.jianshu.com/nb/5354522)
-
-* [你不懂JS：异步与性能](http://www.jianshu.com/nb/4015903)
-
-* [你不懂JS：ES6与未来](http://www.jianshu.com/nb/7251531)
+* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
 
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 ### 前端基础
+
 * [前端解决跨域问题的8种方案](http://www.cnblogs.com/JChen666/p/3399951.html)
 
 * [浏览器 HTTP 协议缓存机制详解](https://my.oschina.net/leejun2005/blog/369148)
@@ -163,11 +157,13 @@
 * [从输入 URL 到页面加载完成的过程中都发生了什么](https://segmentfault.com/a/1190000003925803?utm_source=tuicool&utm_medium=referral)
 
 ### HTML5 新API
+
 * [MDN Window.localStorage](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/localStorage)
 
 * [MDN Window.sessionStorage](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/sessionStorage)
 
 ### 网站性能优化
+
 * [JavaScript 的性能优化：加载和执行](http://www.ibm.com/developerworks/cn/web/1308_caiys_jsload/index.html)
 
 * [毫秒必争，前端网页性能最佳实践](www.cnblogs.com/developersupport/p/webpage-performance-best-practices.html)
@@ -177,6 +173,7 @@
 * [编写高效的 CSS 选择器](http://web.jobbole.com/35339/)
 
 ### 前端模块化
+
 * [前端模块化（CommonJs,AMD和CMD）](http://www.jianshu.com/p/d67bc79976e6)
 
 * [浅析JS中的模块规范（CommonJS，AMD，CMD）](http://www.2cto.com/kf/201411/348276.html)
@@ -186,6 +183,7 @@
 * [写了十年JS却不知道模块化为何物？](https://blog.wilddog.com/?p=587)
 
 ### 框架/库
+
 * [jQuery API 中文文档](http://jquery.cuishifeng.cn/)
 
 * [Zepto.js API](http://zeptojs.com/)
@@ -201,6 +199,7 @@
 * [Backbone.js API 中文文档](http://www.css88.com/doc/backbone/)
 
 ### SVG
+
 * [菜鸟教程 - SVG](http://www.runoob.com/svg/svg-tutorial.html)
 
 * [SVG动画库 - vivus.js](http://maxwellito.github.io/vivus/)
@@ -208,31 +207,27 @@
 * [帅气的SVG路径描边动画 (path animation) 实战应用](https://segmentfault.com/a/1190000007811310)
 
 ### Canvas
+
 * [菜鸟教程 - Canvas](http://www.runoob.com/tags/ref-canvas.html)
 
-### Node.js
-* [七天学会NodeJS](https://www.lvtao.net/content/book/node.js.htm)
-
-* [Node.js API](https://nodejs.org/en/docs/)
-
-* [package.json文件](http://javascript.ruanyifeng.com/nodejs/packagejson.html)
-
-* [Express](http://www.expressjs.com.cn/)
-
 ### ES6
+
+* [Learn ES2015 · Babel](http://babeljs.io/learn-es2015/)
+
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
 
+* [谈谈使用 promise 时候的一些反模式](http://efe.baidu.com/blog/promises-anti-pattern/?utm_source=tuicool&utm_medium=referral)
+
 ### Babel
+
 * [Babel](http://babeljs.io/)
 
 ### Webpack
-* [入门Webpack，看这篇就够了](http://www.jianshu.com/p/42e11515c10f)
 
-* [webpack进阶之插件篇](https://segmentfault.com/a/1190000005742122)
-
-* [Webpack之配置说明](https://zhuanlan.zhihu.com/p/21346555)
+* [webpack官方文档](https://webpack.js.org/)
 
 ### React
+
 * [React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
 
 * [React官网](https://facebook.github.io/react/)
@@ -243,15 +238,36 @@
 
 * [從零開始學 ReactJS](https://github.com/carlleton/reactjs101)
 
+### Vue
+
+* [Vue官方文档](https://vuejs.org/v2/guide/)
+
+* [vue-router官方文档](https://router.vuejs.org/en/)
+
+* [vuex官方文档](https://vuex.vuejs.org/en/)
+
+* [vue-loader官方文档](http://vue-loader.vuejs.org/en)
+
+* [vue-ssr-doc](https://ssr.vuejs.org/en/)
+
+* [Vue.js 源码学习笔记](http://jiongks.name/blog/vue-code-review/)
+
+* [vue早期源码学习系列](https://github.com/youngwind/blog/issues/84)
+
 ### Fetch
+
 * [传统 Ajax 已死，Fetch 永生](https://segmentfault.com/a/1190000003810652);
 
 * [这个API很“迷人”——(新的Fetch API)](https://www.w3ctech.com/topic/854)
 
+* [axios](https://github.com/mzabriskie/axios)
+
 ### 代码规范
+
 * [代码规范](https://github.com/ecomfe/spec)
 
 ### 在线工具
+
 * [Can I use](http://caniuse.com/)
 
 * [在线autoprefixer](http://autoprefixer.github.io/)
@@ -261,6 +277,7 @@
 * [CSS clip-path maker](http://bennettfeely.com/clippy/)
 
 ### 书籍
+
 * 《Head First HTML与CSS》
 * 《精通CSS：高级Web标准解决方案》
 * 《CSS权威指南》
@@ -272,13 +289,26 @@
 * 《JavaScript 设计模式 - 张容铭》
 
 
-* 《深入React技术栈》
-
-
 * 《HTTP权威指南》
 
+## 后端
+
+### Node.js
+
+* [七天学会NodeJS](https://www.lvtao.net/content/book/node.js.htm)
+
+* [Node.js API](https://nodejs.org/en/docs/)
+
+* [package.json文件](http://javascript.ruanyifeng.com/nodejs/packagejson.html)
+
+* [Express](http://www.expressjs.com.cn/)
+
+* [使用 NGINX 进行微程序缓存的好处](http://blog.oneapm.com/apm-tech/702.html?utm_source=tuicool&utm_medium=referral)
+
 ## Git
+
 * [Git教程 - 廖雪峰](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 ## Markdown
+
 * [Markdown教程](http://www.appinn.com/markdown/)
