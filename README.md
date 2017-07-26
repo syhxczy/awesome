@@ -42,6 +42,8 @@
 
 * [Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
 
+* [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv)
+
 * [clip-path](https://developer.mozilla.org/zh-CN/docs/Web/CSS/clip-path)
 
 * [Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification](https://www.w3.org/TR/CSS2/)
@@ -70,11 +72,14 @@
 
 * [手机端页面自适应解决方案—rem布局进阶版](http://www.jianshu.com/p/985d26b40199)
 
-### JavaScript
+* [antd mobile 0.8 以上版本「高清」方案设置](https://github.com/ant-design/ant-design-mobile/wiki/antd mobile 0.8 以上版本「高清」方案设置)
 
+### JavaScript
 * [菜鸟教程 - JavaScript](http://www.runoob.com/js/js-tutorial.html)
 
 * [JavaScript | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+
+* [ES5](https://www.w3.org/html/ig/zh/wiki/ES5)
 
 * [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
 
@@ -144,6 +149,20 @@
 
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
+* [Learn ES2015 · Babel](http://babeljs.io/learn-es2015/)
+
+* [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+
+* [谈谈使用 promise 时候的一些反模式](http://efe.baidu.com/blog/promises-anti-pattern/?utm_source=tuicool&utm_medium=referral)
+
+* [总是一知半解的Event Loop](https://juejin.im/post/5927ca63a0bb9f0057d3608e)
+
+### 正则表达式
+
+* [JS正则表达式完整教程](https://juejin.im/post/5965943ff265da6c30653879)
+
+* [最全正则表达式总结](http://www.lovebxm.com/2017/05/31/RegExp/)
+
 ### 前端基础
 
 * [前端解决跨域问题的8种方案](http://www.cnblogs.com/JChen666/p/3399951.html)
@@ -209,14 +228,6 @@
 ### Canvas
 
 * [菜鸟教程 - Canvas](http://www.runoob.com/tags/ref-canvas.html)
-
-### ES6
-
-* [Learn ES2015 · Babel](http://babeljs.io/learn-es2015/)
-
-* [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
-
-* [谈谈使用 promise 时候的一些反模式](http://efe.baidu.com/blog/promises-anti-pattern/?utm_source=tuicool&utm_medium=referral)
 
 ### Babel
 
@@ -295,13 +306,17 @@
 
 ### Node.js
 
-* [七天学会NodeJS](https://www.lvtao.net/content/book/node.js.htm)
+* [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
 
 * [Node.js API](https://nodejs.org/en/docs/)
 
 * [package.json文件](http://javascript.ruanyifeng.com/nodejs/packagejson.html)
 
 * [Express](http://www.expressjs.com.cn/)
+
+* [Koa](http://koajs.com/)
+
+* [koa2进阶学习笔记](https://chenshenhai.github.io/koa2-note/)
 
 * [使用 NGINX 进行微程序缓存的好处](http://blog.oneapm.com/apm-tech/702.html?utm_source=tuicool&utm_medium=referral)
 
